@@ -77,7 +77,8 @@ Redirects to the original URL.
 
 ## 📷 API Test Screenshot
 
-![API Test](assets/api-test.png)
+![API Test](assets/api-test-1.png)
+![API Test](assets/api-test-2.png)
 
 ---
 
